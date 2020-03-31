@@ -42,7 +42,7 @@ vim ~/.bashrc
 
 ```
 #Custom Aliases
-alias sessionManager='/usr/local/bin/Session-Manager/sessionManager'
+alias sessionManager='/usr/local/bin/Remote-Session-Manager/sessionManager'
 ```
 
 #### 3. Configuration
