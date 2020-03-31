@@ -1,4 +1,4 @@
-# Session Manager
+# Remote Session Manager
 
 **This tool will provide easy access to the Linux or Windows Servers.**
 
