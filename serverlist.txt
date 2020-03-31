@@ -1,0 +1,16 @@
+# Author : Dilshan Wijesooriya (dilshanonline@gmail.com)
+# GitHub : https://github.com/dilshanonline
+
+# Entry Format : [IP] [Description] [Project] [OS:LINUX/WIN] [Username] [Password or Key File Path] [Root Password for Linux]
+#--
+#--Project_1
+192.168.1.1 Server_1A Project_1 LINUX user ./bin/keys/private.key null
+192.168.1.2 Server_1B Project_1 LINUX user ./bin/keys/private.key P@ssw0rd
+
+#--Project_2
+192.168.2.1 Server_2A Project_2 LINUX user admin null
+192.168.2.2 Server_2B Project_2 LINUX user ./bin/keys/private.key P@ssw0rd
+
+#--Project_3
+192.168.3.1 Server_3A Project_3 WIN administrator P@ssw0rd
+192.168.3.2 Server_3B Project_3 WIN administrator P@ssw0rd
