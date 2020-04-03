@@ -54,7 +54,7 @@ function printprojectlist {
 function printserverlist {
 
 	echo ""
-	echo -e -n "${RED}Select a project:${NC} " ; read _project_id
+	echo -e -n "${RED}Select a project ID :${NC} " ; read _project_id
 	echo ""
 
 	while read line;
